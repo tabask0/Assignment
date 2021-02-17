@@ -87,7 +87,7 @@
 	box-shadow: none;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 732px) {
 	.content,
 	.header,
 	.contact-container {
